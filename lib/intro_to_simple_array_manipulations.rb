@@ -1,4 +1,2 @@
-def array(2,6)
-  array.push(5)
-end
+colors = ["blue", "red", ]
   
